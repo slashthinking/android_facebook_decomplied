@@ -1,0 +1,12 @@
+package android_src.provider;
+
+import android.provider.BaseColumns;
+
+public abstract interface Telephony$ThreadsColumns extends BaseColumns
+{
+}
+
+/* Location:           /data1/software/jd-gui/com.facebook.katana_2.0_liqucn.com-dex2jar.jar
+ * Qualified Name:     android_src.provider.Telephony.ThreadsColumns
+ * JD-Core Version:    0.6.0
+ */
